@@ -41,6 +41,7 @@ Spring Security permet cela sans redéfinir tout le mécanisme d’authentificat
 ---
 
 ## Structure du projet
+
 <img width="228" height="441" alt="image" src="https://github.com/user-attachments/assets/db6afe03-9339-42bc-9a0b-a405c7f15c5b" />
 
 
@@ -51,20 +52,26 @@ Spring Security permet cela sans redéfinir tout le mécanisme d’authentificat
 **L’accès sans login**
 
 ***http://localhost:8080/login***
+
 <img width="919" height="479" alt="Capture d&#39;écran 2025-11-24 002528" src="https://github.com/user-attachments/assets/515b0080-26f6-48ae-8a90-dde5ac0d49d8" />
 
 **Admin**
+
 <img width="924" height="496" alt="Capture d&#39;écran 2025-11-24 002706" src="https://github.com/user-attachments/assets/595dfb0d-d8d0-4839-abcd-b4f8cbd64a6e" />
 <img width="928" height="494" alt="Capture d&#39;écran 2025-11-24 002715" src="https://github.com/user-attachments/assets/f8415921-41f5-4db5-ab42-7d1494b8db9f" />
 <img width="923" height="500" alt="Capture d&#39;écran 2025-11-24 002725" src="https://github.com/user-attachments/assets/9bb61565-5086-46df-b1e8-5b9c8a906e1b" />
 <img width="923" height="503" alt="Capture d&#39;écran 2025-11-24 002738" src="https://github.com/user-attachments/assets/9d353454-3f56-4f15-a75e-c419756e869e" />
 
 
+
+
 **User**
+
 <img width="923" height="493" alt="Capture d&#39;écran 2025-11-24 002620" src="https://github.com/user-attachments/assets/adc8d734-dcc0-4aed-897b-af8322849776" />
 <img width="925" height="475" alt="Capture d&#39;écran 2025-11-24 002628" src="https://github.com/user-attachments/assets/bfa4517a-f72c-491e-bb78-10caeeb0196a" />
 <img width="923" height="488" alt="Capture d&#39;écran 2025-11-24 002638" src="https://github.com/user-attachments/assets/8874c11a-5ced-4325-a123-eb3841449d3d" />
 <img width="922" height="488" alt="Capture d&#39;écran 2025-11-24 002648" src="https://github.com/user-attachments/assets/731d2875-71d3-48a1-a2c8-e3f572090a59" />
+
 
 
 
